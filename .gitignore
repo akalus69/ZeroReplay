@@ -1,0 +1,28 @@
+# Build artifacts
+src/bin/
+src/obj/
+.vs/
+*.user
+*.suo
+
+# Editor/dev backups
+*.bak
+
+# Binaries and archives (build from source)
+*.exe
+*.pdb
+*.zip
+*.7z
+
+# Personal runtime data: macro files and local config (never commit)
+*.zmw
+hotkeys.ini
+macroz.ini
+configs/
+/benvenuto
+/click_test_esame
+/connessioneforticlient
+/connessioneforticlient_totale
+/repeat
+# local archive of pre-open-source git history (never commit)
+.git_history_archive/
